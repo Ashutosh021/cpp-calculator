@@ -1,0 +1,42 @@
+
+.button{
+    width: 65px;
+    padding: 20px;
+    margin: 0 4px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 30px;
+    font-weight: 500;
+}
+.row{
+    margin: 10px 0;
+}
+.row input{
+    /* margin: 0%;
+    padding: 0%; */
+    border-radius:15px;
+    border: 3px solid black;
+    height: 50px;
+    width: 300px;
+    background-color: black;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: right;
+}
+body{
+    text-align: center;
+}
+.button:hover{
+background-color: black;
+color: aliceblue;
+}
+#diff{
+    background-color: rgb(245, 137, 35);
+}
+#diff:hover{
+    background-color: rgb(96, 27, 223);
+}
+#container{
+    border: 2px solid black;
+}
